@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 :root {
-  --bs-dark-rgb: 31, 61, 12;
+  --bs-dark-rgb: 1, 50, 32;
   --bs-primary: #0cbc87;
 }
 
@@ -31,7 +31,7 @@
 }
 
 .back-top:hover {
-  background: #013220;
+  background: #007958;
 }
 
 a {
