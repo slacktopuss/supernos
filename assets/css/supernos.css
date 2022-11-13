@@ -54,3 +54,7 @@ a.text-primary-hover:hover, button.text-primary-hover:hover {
 img.h-80px {
   max-width: 160px;
 }
+
+img.h-md-80px {
+  max-width: 160px;
+}
